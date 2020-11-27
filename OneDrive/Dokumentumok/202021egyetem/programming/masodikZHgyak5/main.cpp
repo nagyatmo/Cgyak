@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <math.h>
 
 class egyszeru_sajat_hiba: public std::exception{
 
