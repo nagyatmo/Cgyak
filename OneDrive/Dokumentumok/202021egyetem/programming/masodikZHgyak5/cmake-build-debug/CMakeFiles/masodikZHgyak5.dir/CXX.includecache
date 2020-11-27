@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/cerok/OneDrive/Dokumentumok/202021egyetem/programming/masodikZHgyak5/main.cpp
+iostream
+-
+string
+-
+
