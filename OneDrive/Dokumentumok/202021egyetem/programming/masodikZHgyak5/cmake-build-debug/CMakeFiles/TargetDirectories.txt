@@ -1,0 +1,3 @@
+C:/Users/cerok/OneDrive/Dokumentumok/202021egyetem/programming/masodikZHgyak5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cerok/OneDrive/Dokumentumok/202021egyetem/programming/masodikZHgyak5/cmake-build-debug/CMakeFiles/masodikZHgyak5.dir
+C:/Users/cerok/OneDrive/Dokumentumok/202021egyetem/programming/masodikZHgyak5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
